@@ -132,15 +132,15 @@ def generate_recommendation() -> Tuple[str, Dict]:
 ## 🖼️ Application Screenshots
 
 ### Chat Interface
-![Chat Interface](screenshots/chat-interface.png)
+![Chat Interface](screenshots/landingpage.png)
 *The main chat window showing conversation flow*
 
 ### Recommendation Engine
-![Recommendation](screenshots/recommendation.png)
+![Recommendation](screenshots/reply1.png)
 *Investment recommendation with detailed analysis*
 
-### Sustainability Analysis
-![Sustainability](screenshots/sustainability.png)
+### Comparisons
+![Sustainability](screenshots/reply2.png)
 *Top sustainable cryptocurrencies comparison*
 
 ## 🧠 Code Complexity & Design
