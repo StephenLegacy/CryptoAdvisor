@@ -173,7 +173,7 @@ total_score = (profit_score * 0.6) + (sustain_score * 0.4)
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## ✉️ Contact
-Project Maintainer - [Your Name](mailto:your.email@example.com)
+Project Maintainer - [Your Name](mailto:oloostephen20191@gmail.com)
 
 ---
 
